@@ -107,6 +107,7 @@ namespace COMP003A.Assignment3
                     break;
             }
             // Outputs the day
+            Console.ReadKey();
 
         }
     }
